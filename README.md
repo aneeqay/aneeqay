@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aneeqay
-- 👀 I’m interested primarily in back-end development however am keen to turn my hand to new things
+- 👀 I’m interested in full stack development with a slight back end lean however am keen to turn my hand to new things
 - 🌱 I’m currently learning python, node.js, flask, react, js, sql, nosql and java
 - 💞️ I’m looking to collaborate on fun projects that can turn into a career
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aneeqa-yusaf)
